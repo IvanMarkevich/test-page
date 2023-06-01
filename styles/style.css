@@ -37,3 +37,13 @@ img {
   margin: 0 auto;
   width: 100%;
 }
+
+ul {
+  background: rgb(114, 98, 98);
+  padding: 10px;
+  border: 1px solid black;
+}
+
+li {
+  margin-left: 20px;
+}
